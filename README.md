@@ -1,4 +1,6 @@
 # 海尔机理库代码开发及集成平台Python模型演示项目
+镜像地址：docker.io/biancl/python-demo:latest
+
 接口列表：
 1. plus接口
     - 接口名称：plus
